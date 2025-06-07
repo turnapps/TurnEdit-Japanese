@@ -1,0 +1,5 @@
+C:\youmu\projects\turnedit-japanese\TurnEdit\src\bin\Release\net9.0-windows\publish\TurnEdit.exe
+C:\youmu\projects\turnedit-japanese\TurnEdit\src\bin\Release\net9.0-windows\publish\TurnEdit.dll
+C:\youmu\projects\turnedit-japanese\TurnEdit\src\bin\Release\net9.0-windows\publish\TurnEdit.deps.json
+C:\youmu\projects\turnedit-japanese\TurnEdit\src\bin\Release\net9.0-windows\publish\TurnEdit.runtimeconfig.json
+C:\youmu\projects\turnedit-japanese\TurnEdit\src\bin\Release\net9.0-windows\publish\TurnEdit.pdb
