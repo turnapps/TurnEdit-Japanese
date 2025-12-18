@@ -1,3 +1,4 @@
+このリポジトリは2025年12月18日にアーカイブされます。代わりに、turnapps/Turneditをご覧ください(英語)。
 <h1 align="center">TurnEdit</h1>
 <p align="center">TurnEditは C# で記述されたシンプルなテキストエディタです。</p>
 <p align="center">
